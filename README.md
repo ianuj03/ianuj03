@@ -39,4 +39,4 @@ In truly love with Vim and a secret 'affair' with VSCode.
 </div>
 
 ### ✍️ Blog...
-- <a href="ianuj03.blogspot.com" target="_blank">IoT</a>
+- <a href="https://ianuj03.blogspot.com" target="_blank">IoT</a>
