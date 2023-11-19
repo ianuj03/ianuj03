@@ -15,9 +15,9 @@
 ---
 
 ### Hey, there 👋
-I'm a full stack developer, working from India.
+Developing tech for a better tom and to ease today
 <br />
-In truly love with Vim and a secret 'affair' with VSCode.
+No questions, Vim is an eternal love.
 
 ### :hammer_and_wrench: Languages and Tools...
 <div>
